@@ -1,0 +1,28 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bind-it (0.2.7)
+      rjb (~> 1.4.3)
+    linguistics (2.0.3)
+      loggability (~> 0.7)
+    loggability (0.11.0)
+    rjb (1.4.9)
+    sequel (3.48.0)
+    sqlite3 (1.3.10)
+    stanford-core-nlp (0.5.1)
+      bind-it (~> 0.2.5)
+    wordnet (1.0.0)
+      loggability (~> 0.5)
+      sequel (~> 3.38)
+    wordnet-defaultdb (1.0.1)
+      sqlite3 (~> 1.3)
+      wordnet (~> 1.0.0.pre)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  linguistics
+  stanford-core-nlp
+  wordnet
+  wordnet-defaultdb
