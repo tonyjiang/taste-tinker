@@ -7,5 +7,5 @@ bitch about how millennials only use simple words in their writing?
 This app can tranform your message into pretentious/elegant text by replacing
 common words with little known ones.
 
-<t>Coming soon</t>If you are hopelessly highfalutin in writing, we can help
+<tt>Coming soon</tt>If you are hopelessly highfalutin in writing, we can help
 you get down to earth!
